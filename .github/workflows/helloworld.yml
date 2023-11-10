@@ -1,0 +1,4 @@
+name: myfirstactions
+on: 
+  pull_request:                          # [pull_request, push, commit]
+    types: opened       #on opening a pull request kicks of github action
